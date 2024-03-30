@@ -1,0 +1,7 @@
+data/
+motor_stage/
+workstation/
+.DS_Store
+*.asv
+*.mat
+*.fig
